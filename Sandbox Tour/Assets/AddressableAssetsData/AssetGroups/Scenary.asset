@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Scenary
+  m_EditorClassIdentifier: 
+  m_GroupName: Scenary
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 3f14bdb17763cfa44889726cdb383f09
+  m_SerializeEntries:
+  - m_GUID: f2c8258a29af8954abdb7eea6cfc00f8
+    m_Address: Box_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 593a95f054ac87d45b33794932a14b27
+    m_Address: Tree_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b21cf49fad2570c44bd6509b4f741cb7
+    m_Address: Signpost
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e829c90ffcdaf943832f1f022114279
+    m_Address: TeaTable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95d30378b4199384080397e2a56ea709
+    m_Address: Fence
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3d115358e9ade24589acd35851c9493
+    m_Address: House
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 91a7706a77bf1c04d993d0ad7df654b4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fe3da8363f9f4b64d905aaf28defa7ec, type: 2}
+    - {fileID: 11400000, guid: d9ced88b1a416964b81a45720519e240, type: 2}

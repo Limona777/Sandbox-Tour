@@ -1,0 +1,598 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|e:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\sandbox tour\\assets\\script\\dialog\\dialog_angel.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\dialog\\dialog_angel.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\camera\\rotatingcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\camera\\rotatingcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\camera\\facingcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\camera\\facingcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\camera\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\camera\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\arkanoid\\gameworldpauser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\arkanoid\\gameworldpauser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\arkanoid\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\arkanoid\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\arkanoid\\bricksholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\arkanoid\\bricksholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\arkanoid\\brick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\arkanoid\\brick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\arkanoid\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\arkanoid\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\arkanoid\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\arkanoid\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\arkanoid\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\arkanoid\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\arkanoid\\arkanoidplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\arkanoid\\arkanoidplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\arkanoid\\animationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\arkanoid\\animationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|e:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\sandbox tour\\assets\\script\\ui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\transition\\teleportpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\transition\\teleportpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\ui\\tutorialuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\tutorialuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\general\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\general\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\ui\\timelinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\timelinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\general\\conditionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\general\\conditionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\transition\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\transition\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\general\\bossencounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\general\\bossencounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\general\\savepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\general\\savepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\general\\dialogsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\general\\dialogsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\general\\prologuesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\general\\prologuesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\player\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\general\\talkbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\general\\talkbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\scriptableobject\\conditioneventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scriptableobject\\conditioneventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\scriptableobject\\conditionconfigso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scriptableobject\\conditionconfigso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\general\\gamedatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\general\\gamedatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\scriptableobject\\voideventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scriptableobject\\voideventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\scriptableobject\\sceneloadeventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scriptableobject\\sceneloadeventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\scriptableobject\\gamesceneso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scriptableobject\\gamesceneso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\utilities\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\utilities\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\player\\sign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\sign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\assets\\script\\utilities\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0C4B5-CE74-C258-1210-A636B9F49227}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\utilities\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dialog_Angel.txt",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Dialog\\Dialog_Angel.txt",
+              "RelativeDocumentMoniker": "Assets\\Script\\Dialog\\Dialog_Angel.txt",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Dialog\\Dialog_Angel.txt",
+              "RelativeToolTip": "Assets\\Script\\Dialog\\Dialog_Angel.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-01T08:42:39.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Brick.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Arkanoid\\Brick.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Arkanoid\\Brick.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Arkanoid\\Brick.cs",
+              "RelativeToolTip": "Assets\\Script\\Arkanoid\\Brick.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswBcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T14:13:34.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Boss.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Arkanoid\\Boss.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Arkanoid\\Boss.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Arkanoid\\Boss.cs",
+              "RelativeToolTip": "Assets\\Script\\Arkanoid\\Boss.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAYwGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T06:17:53.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ArkanoidPlayerController.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Arkanoid\\ArkanoidPlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Arkanoid\\ArkanoidPlayerController.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Arkanoid\\ArkanoidPlayerController.cs",
+              "RelativeToolTip": "Assets\\Script\\Arkanoid\\ArkanoidPlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T12:52:56.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Arkanoid\\Ball.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Arkanoid\\Ball.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Arkanoid\\Ball.cs",
+              "RelativeToolTip": "Assets\\Script\\Arkanoid\\Ball.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T10:19:23.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Base.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Arkanoid\\Base.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Arkanoid\\Base.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Arkanoid\\Base.cs",
+              "RelativeToolTip": "Assets\\Script\\Arkanoid\\Base.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T14:05:52.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BricksHolder.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Arkanoid\\BricksHolder.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Arkanoid\\BricksHolder.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Arkanoid\\BricksHolder.cs",
+              "RelativeToolTip": "Assets\\Script\\Arkanoid\\BricksHolder.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAIwC8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T14:26:16.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Arkanoid\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Arkanoid\\Bullet.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Arkanoid\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Script\\Arkanoid\\Bullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T08:33:20.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameWorldPauser.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Arkanoid\\GameWorldPauser.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Arkanoid\\GameWorldPauser.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Arkanoid\\GameWorldPauser.cs",
+              "RelativeToolTip": "Assets\\Script\\Arkanoid\\GameWorldPauser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T03:22:07.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Camera\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Camera\\CameraFollow.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Camera\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Script\\Camera\\CameraFollow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T03:47:52.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FacingCamera.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Camera\\FacingCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Camera\\FacingCamera.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Camera\\FacingCamera.cs",
+              "RelativeToolTip": "Assets\\Script\\Camera\\FacingCamera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T04:19:03.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RotatingCamera.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Camera\\RotatingCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Camera\\RotatingCamera.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Camera\\RotatingCamera.cs",
+              "RelativeToolTip": "Assets\\Script\\Camera\\RotatingCamera.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAUwDEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T05:38:02.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AnimationEvent.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Arkanoid\\AnimationEvent.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Arkanoid\\AnimationEvent.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Arkanoid\\AnimationEvent.cs",
+              "RelativeToolTip": "Assets\\Script\\Arkanoid\\AnimationEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T14:21:32.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TeleportPoint.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Transition\\TeleportPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Transition\\TeleportPoint.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Transition\\TeleportPoint.cs",
+              "RelativeToolTip": "Assets\\Script\\Transition\\TeleportPoint.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAuwHgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T13:17:02.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\UI\\Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\Menu.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\UI\\Menu.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\Menu.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvyUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T11:30:21.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Transition\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Transition\\SceneLoader.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Transition\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\Script\\Transition\\SceneLoader.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAwGUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T13:32:06.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TutorialUIController.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\UI\\TutorialUIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\TutorialUIController.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\UI\\TutorialUIController.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\TutorialUIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T07:33:28.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DialogSystem.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\General\\DialogSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\General\\DialogSystem.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\General\\DialogSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\General\\DialogSystem.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAADwvzcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T06:14:20.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Box.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\General\\Box.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\General\\Box.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\General\\Box.cs",
+              "RelativeToolTip": "Assets\\Script\\General\\Box.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T14:13:29.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TimelineController.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\UI\\TimelineController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\TimelineController.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\UI\\TimelineController.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\TimelineController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAIwD0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T08:53:29.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConditionManager.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\General\\ConditionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\General\\ConditionManager.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\General\\ConditionManager.cs",
+              "RelativeToolTip": "Assets\\Script\\General\\ConditionManager.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwD8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T12:19:51.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BossEncounter.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\General\\BossEncounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\General\\BossEncounter.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\General\\BossEncounter.cs",
+              "RelativeToolTip": "Assets\\Script\\General\\BossEncounter.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAmwKoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T14:53:25.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ConditionEventSO.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\ScriptableObject\\ConditionEventSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ScriptableObject\\ConditionEventSO.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\ScriptableObject\\ConditionEventSO.cs",
+              "RelativeToolTip": "Assets\\Script\\ScriptableObject\\ConditionEventSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T12:20:11.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SavePanel.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\General\\SavePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\General\\SavePanel.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\General\\SavePanel.cs",
+              "RelativeToolTip": "Assets\\Script\\General\\SavePanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T04:58:01.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PrologueSystem.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\General\\PrologueSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\General\\PrologueSystem.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\General\\PrologueSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\General\\PrologueSystem.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAwBAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T05:21:24.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PlayerMove.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Player\\PlayerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\PlayerMove.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Player\\PlayerMove.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\PlayerMove.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvwoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T13:30:45.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TalkButton.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\General\\TalkButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\General\\TalkButton.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\General\\TalkButton.cs",
+              "RelativeToolTip": "Assets\\Script\\General\\TalkButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T05:41:31.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GameDataManager.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\General\\GameDataManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\General\\GameDataManager.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\General\\GameDataManager.cs",
+              "RelativeToolTip": "Assets\\Script\\General\\GameDataManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T12:03:47.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "VoidEventSO.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\ScriptableObject\\VoidEventSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ScriptableObject\\VoidEventSO.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\ScriptableObject\\VoidEventSO.cs",
+              "RelativeToolTip": "Assets\\Script\\ScriptableObject\\VoidEventSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:27:55.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ConditionConfigSO.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\ScriptableObject\\ConditionConfigSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ScriptableObject\\ConditionConfigSO.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\ScriptableObject\\ConditionConfigSO.cs",
+              "RelativeToolTip": "Assets\\Script\\ScriptableObject\\ConditionConfigSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T12:19:02.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Utilities\\Enums.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Utilities\\Enums.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Utilities\\Enums.cs",
+              "RelativeToolTip": "Assets\\Script\\Utilities\\Enums.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T14:10:08.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GameSceneSO.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\ScriptableObject\\GameSceneSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ScriptableObject\\GameSceneSO.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\ScriptableObject\\GameSceneSO.cs",
+              "RelativeToolTip": "Assets\\Script\\ScriptableObject\\GameSceneSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T13:55:18.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SceneLoadEventSO.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\ScriptableObject\\SceneLoadEventSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ScriptableObject\\SceneLoadEventSO.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\ScriptableObject\\SceneLoadEventSO.cs",
+              "RelativeToolTip": "Assets\\Script\\ScriptableObject\\SceneLoadEventSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T13:48:00.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IInteractable.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Utilities\\IInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Utilities\\IInteractable.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Utilities\\IInteractable.cs",
+              "RelativeToolTip": "Assets\\Script\\Utilities\\IInteractable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T13:55:37.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Sign.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Player\\Sign.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\Sign.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Sandbox Tour\\Assets\\Script\\Player\\Sign.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\Sign.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T11:40:29.333Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
