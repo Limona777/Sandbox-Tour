@@ -12,10 +12,8 @@
 - [Gameplay](#gameplay)
 - [Boss Design Philosophy](#boss-design-philosophy)
 - [Core Systems Architecture](#core-systems-architecture)
-- [Code Structure](#code-structure)
 - [Technical Highlights](#technical-highlights)
 - [How to Run](#how-to-run)
-- [GitHub](#github)
 
 ---
 
@@ -23,7 +21,7 @@
 
 *Sandbox Tour* tells the story of a little girl exploring a sandbox world of her own making. This world should feel incredibly familiar, but hidden within are details she never imagined. Through interactions with characters and confrontations with negative emotions, she gradually explores her inner world.
 
-- **Perspective**: Top-down 3D exploration + Arkanoid-style boss battles
+- **Perspective**: Top-down 2.5D exploration + Arkanoid-style boss battles
 - **Art style**: Cute mascot-like characters, soft flat shading
 - **Core themes**: Growth, self-awareness, emotional management
 
@@ -110,56 +108,6 @@ Each boss embodies a specific negative emotion, with bricks and bullets carrying
 
 ---
 
-## Code Structure
-
-```
-Assets/Scripts/
-├── Core/
-│   ├── ConditionManager.cs          # Singleton condition manager
-│   ├── GameDataManager.cs           # Game data manager (box states, etc.)
-│   └── GameWorldPauser.cs           # Static utility: pause/resume game world
-├── Scene/
-│   ├── SceneLoader.cs               # Scene loading & save restoration
-│   ├── BossEncounter.cs             # Boss encounter & prerequisite checks
-│   ├── TeleportPoint.cs             # Teleport point (requires conditions)
-│   └── TimelineController.cs        # Intro cutscene control
-├── UI/
-│   ├── DialogSystem.cs              # Dialog system
-│   ├── PrologueSystem.cs            # Boss prologue cutscene
-│   ├── TutorialUIController.cs      # Tutorial panel
-│   ├── SavePanel.cs                 # Save confirmation panel
-│   ├── Menu.cs                      # Main menu
-│   └── TalkButton.cs                # Interaction prompt button
-├── Interaction/
-│   ├── IInteractable.cs             # Interaction interface
-│   ├── Sign.cs                      # Interaction prompt
-│   ├── Box.cs                       # Save box (chest)
-│   └── TalkButton.cs                # Talk button
-├── Player/
-│   ├── PlayerMove.cs                # Character movement
-│   ├── CameraFollow.cs              # Camera follow
-│   ├── RotatingCamera.cs            # Camera rotation
-│   └── FacingCamera.cs              # Occlusion transparency
-├── Battle/
-│   ├── ArkanoidPlayerController.cs  # Paddle control during boss battles
-│   ├── Ball.cs                      # Ball speed maintenance
-│   ├── Brick.cs                     # Brick (destructible)
-│   ├── BricksHolder.cs              # Brick management & victory condition
-│   ├── Base.cs                      # Bottom boundary (ball loss detection)
-│   ├── Boss.cs                      # Boss behavior (homing, spread, vertical barrages)
-│   ├── Bullet.cs                    # Bullet collision
-│   └── AnimationEvent.cs            # Destroy after animation completes
-└── ScriptableObjects/
-    ├── ConditionConfigSO.cs         # Condition display configuration
-    ├── ConditionEventSO.cs          # Condition event channel
-    ├── GameSceneSO.cs               # Scene asset reference
-    ├── ReturnToPrevSceneEventSO.cs  # Return-to-previous-scene event
-    ├── SceneLoadEventSO.cs          # Scene load event
-    └── VoidEventSO.cs               # No-parameter event
-```
-
----
-
 ## Technical Highlights
 
 - **Addressable asynchronous scene loading** – smooth transitions without blocking the main thread
@@ -172,23 +120,13 @@ Assets/Scripts/
 
 ## How to Run
 
-1. Open the project in **Unity 2021.3** or newer
+1. Open the project in **Unity 2022.3.34** or newer
 2. Wait for Addressables to finish loading
-3. Open the scene `Assets/Scenes/MainMenu` and press Play
+3. Open the scene `Assets/Scenes/Persistent` and press Play
 4. From the main menu, choose **New Game** or **Continue** (if a save exists)
 
 ### Tested Environment
 
 - Platform: PC (Windows / Mac)
 - Input: Keyboard (recommended)
-- Resolution: Any, 1920x1080 recommended
-
----
-
-## GitHub
-
-Source code: [https://github.com/Limona777/Sandbox-Tour](https://github.com/Limona777/Sandbox-Tour)
-
----
-
-© Sandbox Tour Team. For educational / personal project demonstration only.
+- Resolution: Any, 1840x1380 recommended
